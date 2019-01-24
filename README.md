@@ -6,13 +6,13 @@ Testing out github and learning about Markdown
 ### "###" = h3
 ...
 ###### "######" = h6
-*Give things with emphasizes a single "*" or a "_"*
-*Give things some thickness with a double "**" or a "__"*
+*Give things with emphasizes a single asterisk or underline (italic)*
+**Give things some thickness with a double asterisk or underline (bold)**
 
-*ul
-    *li
-    *li
-    *li
+* ul
+    * li
+    * li
+    * li
 
 1. ol
     1. li
